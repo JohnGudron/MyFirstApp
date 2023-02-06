@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Мое приложение</string>
+    <string name="action_settings">Настройки</string>
+    <string name="toppings">ТОППИНГИ</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="quantity">КОЛИЧЕСТВО</string>
+    <string name="order">ЗАКАЗАТЬ</string>
+    <string name="name">Имя</string>
+    <string name="large_text">ТЕКСТ</string>
+    <string name="order_text">Имя: <xliff:g id="name">%1$s</xliff:g>      \nДобавить Сливки? <xliff:g id="cream">%2$s</xliff:g>\nДобавить шоколад? <xliff:g id="chocolate">%3$s</xliff:g>\nКоличество: <xliff:g id="quantity">%4$s</xliff:g>\nИтого: <xliff:g id="total">%5$s</xliff:g>       \nСпасибо!</string>
+</resources>
